@@ -12,3 +12,5 @@ A small group of students and myself are competing in the annual APA design comp
 ## Course Objectives
 In this course, I would like to learn how to use and apply technical data programming and visualization skills to make maps, charts, and tables that are aesthetically compelling and effective at inspiring urban solutions. 
 
+![malibu](https://user-images.githubusercontent.com/122329602/212527116-940e52e2-6e28-45cb-95e3-3390edaf1d04.jpg)
+a photo I took while visiting Malibu recently
