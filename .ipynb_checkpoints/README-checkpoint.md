@@ -1,6 +1,6 @@
 # up221-lindsey
 
-## My Profile test
+## My Profile
 My name is Lindsey Morris and I am a second year MURP concentrating in Design and Development. I grew up in Boise, Idaho and have lived and worked in major cities across the West Coast over the last decade. Prior to moving to Los Angeles, I lived in the Bay Area for 5 years where I worked for as a Program Manager of a national organization focused on designing everyday spaces with young children and their families in mind. Within urban planning and design, I am interested in environmental justice, housing as a right, inclusive green spaces, and restorative justice. Outside of school, I enjoy film photography, make collages, hiking, swimming, dancing and being outside with my dog. 
 
 ## Course Description
